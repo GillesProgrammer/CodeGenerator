@@ -80,7 +80,7 @@
             // 
             // tbResult
             // 
-            this.tbResult.Location = new System.Drawing.Point(13, 64);
+            this.tbResult.Location = new System.Drawing.Point(12, 51);
             this.tbResult.Name = "tbResult";
             this.tbResult.Size = new System.Drawing.Size(294, 20);
             this.tbResult.TabIndex = 5;
@@ -89,7 +89,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(324, 102);
+            this.ClientSize = new System.Drawing.Size(324, 82);
             this.Controls.Add(this.tbResult);
             this.Controls.Add(this.tbGrain);
             this.Controls.Add(this.lbGrain);

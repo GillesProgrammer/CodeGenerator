@@ -20,6 +20,7 @@ namespace CodeGenerator
             if (code != null && grain != null)
             {
                 tbResult.Text = EncodePassword(code, grain);
+                MessageBox.Show("Le code : " + code + " avec le grain : " + grain + " donne le code suivant : " + tbResult.Text);
             }
         }
 
